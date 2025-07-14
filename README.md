@@ -1,2 +1,0 @@
-# NoteD
-Note making website
